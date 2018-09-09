@@ -1,5 +1,5 @@
 def create_an_empty_array
-  my_array = Array.New()
+  []
 end
 
 def create_an_array
